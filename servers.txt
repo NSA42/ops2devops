@@ -1,0 +1,5 @@
+Student 16
+Public VM 3.126.91.139
+Public IP 3.71.186.254
+Private IP K8S 10.0.1.9
+
